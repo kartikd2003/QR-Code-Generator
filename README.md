@@ -37,4 +37,4 @@ It allows users to enter any **text or URL** and instantly generate a QR code, w
 
 ---
 
-https://github.com/kartikd2003/QR-Code-Generator
+[https://github.com/kartikd2003/QR-Code-Generator](https://kartikd2003.github.io/QR-Code-Generator/)
