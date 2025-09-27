@@ -15,8 +15,9 @@ It allows users to enter any **text or URL** and instantly generate a QR code, w
 ---
 
 ## 🖼️ UI Preview
-"SS1.PNG"
-"SS2.PNG"
+-"SS1.PNG" -> Landing page
+-"SS2.PNG" -> Text input
+-"SS3.PNG" -> URL input
 
 ---
 
