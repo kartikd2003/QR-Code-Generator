@@ -3,6 +3,7 @@
 This is a simple **QR Code Generator** project made using **HTML, CSS, and JavaScript**.  
 It allows users to enter any **text or URL** and instantly generate a QR code, which appears with a smooth animation effect.
 
+(https://kartikd2003.github.io/QR-Code-Generator/)
 ---
 
 ## 🚀 Features
